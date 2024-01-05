@@ -19,16 +19,13 @@ This project utilizes the 8051 microcontroller to control a robotic arm through 
 
 1. **Setting up the Development Environment:**
    - Ensure you have the necessary tools and software to compile and program the 8051 microcontroller with assembly code.
-   - [Add any specific instructions here.]
 
 2. **Programming the Microcontroller:**
    - Load the `main.asm` and `servo_control.asm` files onto the 8051 microcontroller.
-   - [Add any specific instructions here.]
 
 3. **Running the Robotic Arm:**
    - Power on the 8051 microcontroller.
    - Observe the robotic arm's movements based on the programmed logic.
-   - [Add any specific instructions here.]
 
 ## Documentation
 
