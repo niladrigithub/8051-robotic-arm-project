@@ -40,5 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-[Add any acknowledgments or references here.]
+Big credits to Microcontroller and Embedded Systems workshops held in Lovely Professional University.
 
